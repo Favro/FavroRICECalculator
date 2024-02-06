@@ -1,0 +1,22 @@
+{
+  "name": "favro-rice-calculator",
+  "version": "1.0.0",
+  "description": "Favro RICE calculator using the Favro webhook and API",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "build": "npm install",
+    "start": "./start.sh"
+  },
+  "keywords": [
+    "Favro",
+    "RICE",
+    "Calculator"
+  ],
+  "author": "Favro",
+  "license": "MIT"
+}
